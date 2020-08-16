@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wait for me minutes.👋
 
 <!--
 **ruan4261/ruan4261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
