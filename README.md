@@ -1,9 +1,7 @@
-### Me
-一只凉了鸭
+### About
+I'm a mysterious gingerbread man, based in NanJing, China.
 
-~~MacOS真tm香~~
-
-![无法载图：请走代理到墙外边亲~](/assets/image1.gif)
+![无法载图：您本机所使用的DNS可能遭到了污染](/assets/image1.gif)
 <!--
 **ruan4261/ruan4261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
