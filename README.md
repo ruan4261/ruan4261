@@ -1,5 +1,5 @@
 ### About
-I'm a mysterious gingerbread man, based in NanJing, China.
+I'm a mysterious gingerbread man.
 
 ![无法载图：您本机所使用的DNS可能遭到了污染](/assets/image1.gif)
 <!--
