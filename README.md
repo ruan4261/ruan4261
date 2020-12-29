@@ -1,9 +1,7 @@
-<a href="https://4261.ink">
-### About
+### [About](https://4261.ink)
 I'm a mysterious gingerbread man.
 
-![无法载图：您本机所使用的DNS可能遭到了污染](/assets/image1.gif)
-</a>
+[![无法载图：您本机所使用的DNS可能遭到了污染](/assets/image1.gif)](https://ruan4261.ink)
 <!--
 **ruan4261/ruan4261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
