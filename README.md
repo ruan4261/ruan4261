@@ -1,7 +1,12 @@
-### About
-I'm a mysterious gingerbread man.
+## Hello, I'm ruan4261
 
-![无法载图：您本机所使用的DNS可能遭到了污染](/assets/image1.gif)
+Let's find something interesting. 🦆
+
+### Stats
+
+![](https://github-readme-stats-ruan4261.vercel.app/api/top-langs/?username=ruan4261&layout=compact&bg_color=fff,faaca8,ddd6f3&title_color=9745f5)  
+![](https://github-readme-stats-ruan4261.vercel.app/api?username=ruan4261&show_icons=true&bg_color=fff,faaca8,ddd6f3&title_color=9745f5&text_color=a960ff&icon_color=ffff00)
+
 <!--
 **ruan4261/ruan4261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
