@@ -1,6 +1,6 @@
 ## Hello, I'm ruan4261
 
-Let's find something interesting. 🦆
+Find something interesting. 🦆
 
 ### Stats
 
